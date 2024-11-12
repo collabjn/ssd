@@ -1,0 +1,11 @@
+django>=4.2,<5.0
+pandas
+scikit-learn
+numpy
+whitenoise
+python-dotenv
+joblib
+gunicorn
+psycopg2-binary
+dj-database-url
+sentry-sdk 
